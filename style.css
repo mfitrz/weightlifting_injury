@@ -1,0 +1,46 @@
+h1 {
+    background: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    letter-spacing: 10px;
+    border: 5px solid crimson;
+    padding: 1em;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+h2 {
+    background: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    letter-spacing: 7px;
+    border: 5px solid crimson;
+    padding: 1em;
+    text-align: center;
+}
+
+p {
+    background: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    letter-spacing: 5px;
+    font-style: italic;
+    border: 5px solid crimson;
+    padding: 1em;
+    text-align: center;
+}
+
+a {
+    background: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    letter-spacing: 5px;
+    font-style: italic;
+    border: 5px solid crimson;
+    padding: 1em;
+    text-decoration: none;
+}
+
+body {
+    background: gray;
+}
